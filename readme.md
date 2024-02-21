@@ -1,3 +1,6 @@
+## Team members 
+1-Vikram Singh (101501507)
+2- Reetika (101496084)
 ## Requirements
 Please ensure you've got the required tools on your local machine or in a virtual machine -- To check, run ./check.sh
 
@@ -33,7 +36,7 @@ Owner Organizations: Each owner organization is allowed to run their own nodes (
 
 
 ## Roles and Policies
-
+# Reetika (101496084)
 1. Business Analyst:
 Responsibilities:
 Analyzes business processes and identifies areas where blockchain technology can bring value.
@@ -46,6 +49,7 @@ Defines the technical specifications, including the choice of technologies and f
 Creates solution design documentation outlining the system's components, interactions, and data flows.
 Ensures the system's scalability, security, and performance meet requirements.
 
+# Vikram Singh (101501507)
 3. Blockchain Developer:
 Responsibilities:
 Develops the chaincode (smart contract) for the asset transfer system.
