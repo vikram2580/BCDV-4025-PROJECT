@@ -12,3 +12,7 @@ We'll create a digital representation of these cards on the blockchain ledger. T
     - Ordering service organization - runs the ordering service to ensure transactions get ordered into blocks fairly, this may be a consortium leader or regulator in the industry. Note that ordering service nodes could also be contributed from multiple organizations, this becomes especially important when running a Byzantine Fault Tolerant (BFT) ordering service.
     - Owner Organizations - Each owner organization is authorized to run peers and submit transfer transactions for the cards (assets) that they own.
 
+![image](https://github.com/vikram2580/BCDV-4025-PROJECT/assets/89578586/27fd85d0-8d77-4fe2-aedf-b6565e4e75bb)
+
+![image](https://github.com/vikram2580/BCDV-4025-PROJECT/assets/89578586/32c0cd4a-50c1-44c9-a433-aa09c7d92fdf)
+
